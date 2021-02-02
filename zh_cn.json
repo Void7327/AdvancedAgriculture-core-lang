@@ -1,5 +1,4 @@
 {
-  "block.adv_agri_core.bronze_block": "青铜块",
   "block.adv_agri_core.": "",
   "block.adv_agri_core.acidified_soil": "酸化土",
   "block.adv_agri_core.aluminium_block": "铝块",
@@ -7,6 +6,7 @@
   "block.adv_agri_core.bamboo_block": "竹捆",
   "block.adv_agri_core.bamboo_chopper": "Bamboo Chopper",
   "block.adv_agri_core.bamboo_fence": "竹栅栏",
+  "block.adv_agri_core.bronze_block": "青铜块",
   "block.adv_agri_core.ceramic_jars": "陶罐",
   "block.adv_agri_core.copper_block": "铜块",
   "block.adv_agri_core.copper_cable": "铜制导线",
@@ -70,6 +70,7 @@
   "item.adv_agri_core.bamboo_charcoal": "竹炭",
   "item.adv_agri_core.bamboo_chestplate": "竹胸甲*",
   "item.adv_agri_core.bamboo_chopper": "砍竹刀",
+  "item.adv_agri_core.bamboo_drill_rod": "竹钎",
   "item.adv_agri_core.bamboo_helmet": "竹头盔*",
   "item.adv_agri_core.bamboo_leaves": "竹叶",
   "item.adv_agri_core.bamboo_leggings": "竹护腿*",
@@ -160,6 +161,7 @@
   "item.adv_agri_core.silver_plate": "银板",
   "item.adv_agri_core.silver_powder": "银粉",
   "item.adv_agri_core.silver_shard": "银碎片",
+  "item.adv_agri_core.silver_shovel": "银锹",
   "item.adv_agri_core.steel_axe": "钢斧",
   "item.adv_agri_core.steel_gear": "钢齿轮",
   "item.adv_agri_core.steel_hoe": "钢锄",
@@ -218,7 +220,5 @@
   "itemGroup.adv_agri_core.agriculture_tool_and_armors": "高级农业-工具与盔甲",
   "itemGroup.adv_agri_core.agriculture_world": "高级农业-地形",
   "ore.adv_agri_core.sulphur_ore.tooltip": "散发着刺鼻的味道...闻起来像是要爆炸",
-  "title.adv_agri_core.advanced_crafting_table": "高级工作台",
-  "tool.adv_agri_core.bamboo_chopper": "竹砍刀",
-  "tool.adv_agri_core.bamboo_drill_rod": "竹钎"
+  "title.adv_agri_core.advanced_crafting_table": "高级工作台"
 }
