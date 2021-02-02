@@ -1,5 +1,4 @@
 {
-  "block.adv_agri_core.bronze_block": "Bronze Block",
   "block.adv_agri_core.": "",
   "block.adv_agri_core.acidified_soil": "Acidic Dirt",
   "block.adv_agri_core.aluminium_block": "Aluminum Block",
@@ -7,6 +6,7 @@
   "block.adv_agri_core.bamboo_block": "Bamboo Block",
   "block.adv_agri_core.bamboo_chopper": "Bamboo Chopper",
   "block.adv_agri_core.bamboo_fence": "Bamboo Fence",
+  "block.adv_agri_core.bronze_block": "Bronze Block",
   "block.adv_agri_core.ceramic_jars": "ceramic Jar",
   "block.adv_agri_core.copper_block": "Copper Block",
   "block.adv_agri_core.copper_cable": "Copper Cable",
@@ -160,6 +160,7 @@
   "item.adv_agri_core.silver_plate": "Silver Plate",
   "item.adv_agri_core.silver_powder": "Silver Powder",
   "item.adv_agri_core.silver_shard": "Silver Shard",
+  "item.adv_agri_core.silver_shovel": "Silver Shovel",
   "item.adv_agri_core.steel_axe": "Steel Axe",
   "item.adv_agri_core.steel_gear": "Steel Gear",
   "item.adv_agri_core.steel_hoe": "Steel Hoe",

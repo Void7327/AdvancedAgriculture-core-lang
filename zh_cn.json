@@ -1,5 +1,4 @@
 {
-  "block.adv_agri_core.bronze_block": "青铜块",
   "block.adv_agri_core.": "",
   "block.adv_agri_core.acidified_soil": "酸化土",
   "block.adv_agri_core.aluminium_block": "铝块",
@@ -7,6 +6,7 @@
   "block.adv_agri_core.bamboo_block": "竹捆",
   "block.adv_agri_core.bamboo_chopper": "Bamboo Chopper",
   "block.adv_agri_core.bamboo_fence": "竹栅栏",
+  "block.adv_agri_core.bronze_block": "青铜块",
   "block.adv_agri_core.ceramic_jars": "陶罐",
   "block.adv_agri_core.copper_block": "铜块",
   "block.adv_agri_core.copper_cable": "铜制导线",
@@ -160,6 +160,7 @@
   "item.adv_agri_core.silver_plate": "银板",
   "item.adv_agri_core.silver_powder": "银粉",
   "item.adv_agri_core.silver_shard": "银碎片",
+  "item.adv_agri_core.silver_shovel": "银锹",
   "item.adv_agri_core.steel_axe": "钢斧",
   "item.adv_agri_core.steel_gear": "钢齿轮",
   "item.adv_agri_core.steel_hoe": "钢锄",
