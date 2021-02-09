@@ -101,7 +101,7 @@
   "item.adv_agri_core.copper_shard": "Copper Shard",
   "item.adv_agri_core.copper_shovel": "Copper Shovel",
   "item.adv_agri_core.copper_sword": "Copper Sword",
-  "item.adv_agri_core.corase_powder": "Coarse Powder",
+  "item.adv_agri_core.corase_ore_powder": "Coarse Ore Powder",
   "item.adv_agri_core.elementary_well_block": "Elementary Well Block",
   "item.adv_agri_core.fine_bamboo_cutter": "Bamboo Silk Cutter",
   "item.adv_agri_core.fine_bamboo_silk": "Finely Cut Bamboo Silk",
@@ -202,7 +202,7 @@
   "item.adv_agri_core.titanium_shovel": "Titanium Shovel",
   "item.adv_agri_core.titanium_sword": "Titanium Sword",
   "item.adv_agri_core.tungsten_axe": "Tungsten Axe",
-  "item.adv_agri_core.tungsten_disslover": "Tungsten Dissolve Solution",
+  "item.adv_agri_core.tungsten_dissolver": "Tungsten Dissolve Solution",
   "item.adv_agri_core.tungsten_gear": "Tungsten Gear",
   "item.adv_agri_core.tungsten_hoe": "Tungsten Hoe",
   "item.adv_agri_core.tungsten_ingot": "Tungsten Ingot",
@@ -229,5 +229,12 @@
   "itemGroup.adv_agri_core.agriculture_world": "AdvancedAgriculture-Terrain",
   "ore.adv_agri_core.sulphur_ore.tooltip": "Smells pungent, m-ay explode in a second.",
   "title.adv_agri_core.advanced_crafting_table": "Advanced Crafting Table",
-  "item.adv_agri_core.bamboo_drill_rod": "Drill Stick"
+  "item.adv_agri_core.bamboo_drill_rod": "Drill Stick",
+  "item.adv_agri_core.bottle_small": "Small Bottle",
+  "item.adv_agri_core.bottle_large": "Large Bottle",
+  "item.adv_agri_core.solarium_bottle_small": "Solarium Bottle(small)",
+  "item.adv_agri_core.solarium_bottle_medium": "Solarium Bottle",
+  "item.adv_agri_core.solarium_bottle_large": "Solarium Bottle(large)",
+  "item.adv_agri_core.gold_shard": "Gold Shard",
+  "item.adv_agri_core.gold_dissolver": "Gold Dissolver"
 }
