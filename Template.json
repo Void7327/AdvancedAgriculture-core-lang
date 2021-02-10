@@ -1,4 +1,4 @@
- {
+{
   "block.adv_agri_core.": "",
   "block.adv_agri_core.acidified_soil": "",
   "block.adv_agri_core.aluminum_block": "",
@@ -222,7 +222,7 @@
   "item.adv_agri_core.zinc_pickaxe": "",
   "item.adv_agri_core.zinc_shovel": "",
   "item.adv_agri_core.zinc_hoe": "",
-  "item.adv_agri_core.zinc_axe": "",   
+  "item.adv_agri_core.zinc_axe": "",
   "item.adv_agri_core.zircon": "",
   "itemGroup.adv_agri_core.agriculture": "",
   "itemGroup.adv_agri_core.agriculture_tool_and_armors": "",
@@ -237,5 +237,4 @@
   "item.adv_agri_core.solarium_bottle_large": "",
   "item.adv_agri_core.gold_shard": "",
   "item.adv_agri_core.gold_dissolver": ""
-  
 }
