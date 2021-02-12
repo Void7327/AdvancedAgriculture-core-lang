@@ -236,5 +236,16 @@
   "item.adv_agri_core.solarium_bottle": "液态阳光瓶",
   "item.adv_agri_core.solarium_bottle_large": "大瓶液态阳光",
   "item.adv_agri_core.gold_shard": "金碎片",
-  "item.adv_agri_core.gold_dissolver": "溶金助剂"
+  "item.adv_agri_core.gold_dissolver": "溶金助剂",
+  "item.adv_agri_core.crushed_aluminum_ore": "粉碎铝矿石",
+  "item.adv_agri_core.crushed_copper_ore": "粉碎铜矿石",
+  "item.adv_agri_core.crushed_gold_ore": "粉碎金矿石",
+  "item.adv_agri_core.crushed_iron_ore": "粉碎铁矿石",
+  "item.adv_agri_core.crushed_lead_ore": "粉碎铅矿石",
+  "item.adv_agri_core.crushed_nickel_ore": "粉碎镍矿石",
+  "item.adv_agri_core.crushed_silver_ore": "粉碎银矿石",
+  "item.adv_agri_core.crushed_high_carbon_iron_ore": "粉碎高碳铁矿石",
+  "item.adv_agri_core.crushed_tungsten_ore": "粉碎钨矿石",
+  "item.adv_agri_core.crushed_titanium_ore": "粉碎钛矿石",
+  "item.adv_agri_core.crushed_zinc_ore": "粉碎锌矿石"
 }

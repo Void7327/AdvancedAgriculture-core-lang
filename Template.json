@@ -236,5 +236,16 @@
   "item.adv_agri_core.solarium_bottle": "",
   "item.adv_agri_core.solarium_bottle_large": "",
   "item.adv_agri_core.gold_shard": "",
-  "item.adv_agri_core.gold_dissolver": ""
+  "item.adv_agri_core.gold_dissolver": "",
+  "item.adv_agri_core.crushed_aluminum_ore": "",
+  "item.adv_agri_core.crushed_copper_ore": "",
+  "item.adv_agri_core.crushed_gold_ore": "",
+  "item.adv_agri_core.crushed_iron_ore": "",
+  "item.adv_agri_core.crushed_lead_ore": "",
+  "item.adv_agri_core.crushed_nickel_ore": "",
+  "item.adv_agri_core.crushed_silver_ore": "",
+  "item.adv_agri_core.crushed_high_carbon_iron_ore": "",
+  "item.adv_agri_core.crushed_tungsten_ore": "",
+  "item.adv_agri_core.crushed_titanium_ore": "",
+  "item.adv_agri_core.crushed_zinc_ore": ""
 }
